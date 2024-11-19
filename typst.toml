@@ -13,7 +13,7 @@ repository = "https://github.com/mkpoli/typst-inboisu"
 [template]
 entrypoint = "invoice.typ"
 path = "template"
-thumbnail = "images/neko.png"
+thumbnail = "images/invoice.png"
 
 [tool]
 [tool.tyler]
